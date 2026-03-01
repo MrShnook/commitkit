@@ -99,3 +99,10 @@ All research tasks complete. Now in prototyping:
 - ⬜ Generate design system
 - ⬜ Build landing page with waitlist
 - ⬜ SEO content strategy
+
+## Design System (2026-03-01)
+- Design system generated: see `docs/design/design-system.md`
+- 11 sections: colors, typography, spacing, borders, motion, components, textures, Tailwind config, accessibility, iconography, page structure
+- Tailwind config is ready to drop into the repo — all tokens pre-configured
+- Both design docs also mirrored to `.claude/` for coding agent access
+- Next step: Build landing page (needs domain purchase approval from Matt OR can deploy to Vercel preview without custom domain)
