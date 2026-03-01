@@ -72,3 +72,30 @@ Current tasks: competitive landscape deep-dive, market sizing, Reddit/community 
 
 ---
 *This file evolves through stages. Update after every decision.*
+
+## Design
+- Design brief completed: see `docs/design/design-brief.md` (2026-03-01)
+- Fonts: Satoshi (display) + General Sans (body) — both from Fontshare
+- Colors: Navy #0A2342 + Amber #F59E0B + Emerald #10B981
+- Tagline: "Every step to your commit."
+- Design system generation is next (frontend-design skill)
+
+## Brand
+- Domain/brand research completed: see `docs/research/domain-brand-research.md` (2026-03-01)
+- Primary domain: commitkit.io (available, ~$35/yr)
+- Backup: trycommitkit.com, usecommitkit.com
+- commitkit.com is parked (Porkbun, exp 2027) — defer acquisition
+
+## Product Marketing Context
+- PMC completed: see `docs/marketing/product-marketing-context.md` (2026-03-01)
+- Also copied to `.claude/product-marketing-context.md` for coding agent reference
+
+## Stage: Prototyping
+All research tasks complete. Now in prototyping:
+- ✅ Domain/brand research
+- ✅ Design exploration (design brief)
+- ✅ Product marketing context
+- ⬜ Purchase domain (needs Matt approval)
+- ⬜ Generate design system
+- ⬜ Build landing page with waitlist
+- ⬜ SEO content strategy
