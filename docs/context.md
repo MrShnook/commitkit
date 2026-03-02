@@ -106,3 +106,19 @@ All research tasks complete. Now in prototyping:
 - Tailwind config is ready to drop into the repo — all tokens pre-configured
 - Both design docs also mirrored to `.claude/` for coding agent access
 - Next step: Build landing page (needs domain purchase approval from Matt OR can deploy to Vercel preview without custom domain)
+
+## Landing Page (2026-03-02)
+- Landing page deployed to commitkit.vercel.app (Vercel production)
+- All sections live: Hero, Problem, Features, How It Works, Pricing, Social Proof, Final CTA, Footer
+- Self-hosted fonts (Satoshi + General Sans woff2 variable fonts)
+- Waitlist API capturing signups via PostHog
+- PostHog analytics active (shared project with NudgeDocs — need dedicated project)
+- Cleaned up duplicate src/src/ directory leftover from earlier build
+
+## SEO Content Strategy (2026-03-02)
+- 5-post blog strategy created targeting soccer recruiting families
+- Posts mapped to ICP pain points from reddit validation research
+- Keyword clusters: recruiting timeline, NCSA alternatives, email templates, coach perspective, checklist
+- Publishing schedule: 1 post/week for 5 weeks
+- Strategy doc: docs/marketing/seo-content-strategy.md
+- Next: Build blog infrastructure (MDX + routes), then write Post #1 (Recruiting Timeline)
